@@ -6,8 +6,8 @@ A simple soil moisture sensor project that can automatically or manually turn on
 
 1. Arduino IDE
 2. Arduino UNO
-3. Soil Moiture Sensor
-4. Rellay
+3. Soil Moisture Sensor
+4. Relay
 5. DC water pump
 6. 3 LEDs
 7. 2 Push Button
