@@ -15,6 +15,10 @@ A simple soil moisture sensor project that can automatically or manually turn on
 9. A bunch of jumper wires
 10. An a tiny little bit of programming knowledge haha
 
+### Optional tools
+
+1. Platform.io on vs Code for easire coding and debugging, Here is the [documentation link](https://docs.platformio.org/en/latest/integration/ide/vscode.html)
+
 ## Reference resources
 
 - https://circuitdigest.com/microcontroller-projects/automatic-irrigation-system-using-arduino-uno
