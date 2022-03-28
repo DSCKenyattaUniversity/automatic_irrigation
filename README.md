@@ -12,7 +12,8 @@ A simple soil moisture sensor project that can automatically or manually turn on
 6. 3 LEDs
 7. 2 Push Button
 8. 3 less than 12k ohm resistors
-9. An a tiny little bit of programming knowledge haha
+9. A bunch of jumper wires
+10. An a tiny little bit of programming knowledge haha
 
 ## Reference resources
 
